@@ -12,4 +12,4 @@ Get Together has at least:
 - [ ] RSVP list
   
  User Accounts
-- [ ] Ability to joing a Get Together group
+- [ ] Ability to join a Get Together group
