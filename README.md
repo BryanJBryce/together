@@ -13,3 +13,4 @@ Get Together has at least:
   
  User Accounts
 - [ ] Ability to join a Get Together group
+- [ ] Ability to RSVP
