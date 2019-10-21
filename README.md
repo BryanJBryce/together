@@ -1,2 +1,2 @@
-# Get-Together
+# Get Together
 Open Source Meetup
